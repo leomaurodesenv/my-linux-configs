@@ -19,6 +19,10 @@ My post-installation things and extensions for Ubuntu/Debian.
 - [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/) - An application menu for Gnome.
 - [OpenWeather](https://extensions.gnome.org/extension/750/openweather/) - Extension to display weather information.
 
+### Appearance
+
+- [ubuntu/yaru](https://github.com/ubuntu/yaru) - A dark theme for Ubuntu. [tutorial](https://www.omgubuntu.co.uk/2020/04/enable-full-dark-mode-in-ubuntu-20-04).
+
 ---
 ## Programming
 
