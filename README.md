@@ -32,6 +32,12 @@ My post-installation things and extensions for Ubuntu/Debian.
 - [Visual Studio Code: Settings Sync](https://gist.github.com/leomaurodesenv/a5eb1493f611e4c710011f2da480cb2e) - Visual Studio Code Settings Sync Gist.
 
 ---
+## Video
+
+- [LosslessCut](https://github.com/mifi/lossless-cut) - Split video/audio.
+- [SimpleScreenRecorder](https://github.com/MaartenBaert/ssr) - Screen recorder for Linux.
+
+---
 ## Also look ~
 
 - Created by Leonardo Mauro ~ [leomaurodesenv](https://github.com/leomaurodesenv/)
