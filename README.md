@@ -15,24 +15,41 @@ My post-installation things and extensions for Ubuntu/Debian.
 ---
 ## Gnome-extensions
 
-- [Dash to Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) - An icon taskbar for the Gnome.
-- [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/) - An application menu for Gnome.
-- [OpenWeather](https://extensions.gnome.org/extension/750/openweather/) - Extension to display weather information.
+- [Dash to Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) - Taskbar for the Gnome.
+- [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/) - Application menu for Gnome.
+- [OpenWeather](https://extensions.gnome.org/extension/750/openweather/) - Display weather information.
 
 ### Appearance
 
-- [ubuntu/yaru](https://github.com/ubuntu/yaru) - A dark theme for Ubuntu. [tutorial](https://www.omgubuntu.co.uk/2020/04/enable-full-dark-mode-in-ubuntu-20-04).
+- [ubuntu/yaru](https://github.com/ubuntu/yaru) - Dark theme for Ubuntu. [tutorial](https://www.omgubuntu.co.uk/2020/04/enable-full-dark-mode-in-ubuntu-20-04).
 
 ---
 ## Programming
 
-- [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose.
+- [Sublime Text](https://www.sublimetext.com/) - Sophisticated text editor for code, markup and prose.
 - [Sublime Text: SFTP](https://artisansweb.net/use-ftpsftp-sublime-text/) - SFTP plugin for Sublime Text.
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editing. Redefined.
-- [Visual Studio Code: Settings Sync](https://gist.github.com/leomaurodesenv/a5eb1493f611e4c710011f2da480cb2e) - Visual Studio Code Settings Sync Gist.
+- [Visual Studio Code: Settings Sync](https://gist.github.com/leomaurodesenv/a5eb1493f611e4c710011f2da480cb2e) - Visual Studio Code Settings Sync.
 
 ---
-## Video
+## Programs
+
+- [AnyDesk](https://anydesk.com/) - Remote desktop software.
+
+### Design
+
+- [Draw.io](https://app.diagrams.net/) - Diagram design program.
+- [GIMP](https://gitlab.gnome.org/GNOME/gimp) - Image manipulation program.
+    - [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A patch for Adobe Photoshop users.
+- [Gravit Designer](https://designer.gravit.io/) - Sophisticated vector image manipulation program.
+
+### PDF
+
+- [Okular](https://www.sublimetext.com/) - Document viewer, with support to annotations.
+- [Xournal++](https://www.sublimetext.com/) - Handwriting notetaking software with PDF annotation support.
+
+
+### Video
 
 - [LosslessCut](https://github.com/mifi/lossless-cut) - Split video/audio.
 - [SimpleScreenRecorder](https://github.com/MaartenBaert/ssr) - Screen recorder for Linux.
