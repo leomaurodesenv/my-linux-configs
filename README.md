@@ -1,6 +1,6 @@
-# My Ubuntu post-installation
+# Linux Programs
 
-My post-installation things and extensions for Ubuntu/Debian.
+My post-installation programs and extensions for Linux distributions.
 
 ---
 ## Terminal
