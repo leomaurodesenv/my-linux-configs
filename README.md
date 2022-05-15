@@ -47,6 +47,7 @@ My post-installation programs and extensions for Linux distributions.
 ### PDF
 
 - [Okular](https://www.sublimetext.com/) - Document viewer, with support to annotations.
+- [Rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [Xournal++](https://www.sublimetext.com/) - Handwriting notetaking software with PDF annotation support.
 
 
