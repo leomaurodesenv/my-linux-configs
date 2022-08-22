@@ -18,10 +18,12 @@ My post-installation programs and extensions for Linux distributions.
 - [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/) - Application menu for Gnome.
 - [Dash to Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) - Taskbar for the Gnome.
 - [OpenWeather](https://extensions.gnome.org/extension/750/openweather/) - Display weather information.
+- [Timezones extension](https://extensions.gnome.org/extension/2657/timezones-extension/) - Show multiple clocks in the panel.
 
 ### Appearance
 
 - [ubuntu/yaru](https://github.com/ubuntu/yaru) - Dark theme for Ubuntu. [tutorial](https://www.omgubuntu.co.uk/2020/04/enable-full-dark-mode-in-ubuntu-20-04).
+- [Dracula](https://www.gnome-look.org/p/1687249) - Dark theme for GTK. [Github](https://github.com/dracula/gtk).
 
 ---
 ## Programming
